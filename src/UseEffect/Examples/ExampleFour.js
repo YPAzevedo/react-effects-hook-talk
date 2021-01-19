@@ -42,7 +42,7 @@ export default function UseEffectExampleFour() {
   return (
     <>
       <Heading as="h3" size="lg">
-        Not advised use case - Observale / Clear internal satate
+        Not advised use case - Observale / Clear internal state
       </Heading>
       <Text>
         Uncomment the code with <Emoji emoji="✅" label="check-mark" /> and
