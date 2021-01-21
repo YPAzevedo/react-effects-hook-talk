@@ -4,7 +4,7 @@ In this section we will cover the overlapping basics between these hooks, they h
 
 ## Side-effects 🤢
 
-First of all to understand useEffect/useLayout effect we need to cover some basic knowledge about then. First of all we are going to look at why where these hooks created and explore it's API, from the naming of these hooks you can see that they have in common the effect part and that's exactly what these hooks where made for perform side-effects in functional components.
+First of all to understand useEffect/useLayoutEffect we need to cover some basic knowledge about then. First of all we are going to look at why were these hooks created and explore it's API, from the naming of these hooks you can see that they have in common the effect part and that's exactly what these hooks where made for perform side-effects in functional components.
 
 But, what are side-effects? According to the React docs some examples of side-effects are:
 
