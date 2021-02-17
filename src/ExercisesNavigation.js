@@ -64,7 +64,7 @@ export default function ExercisesNavigation({ paths }) {
             <DrawerBody>
               <List>
                 {paths.map(({ path, title }) => (
-                  <ListItem key={path}>
+                  <ListItem key={path} marginBottom={3} fontSize={18}>
                     <NavLink
                       to={path}
                       exact
