@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import Markdown from "../Markdown";
 
 import basicsMarkdown from "./Basics.md";

@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import { Tab, TabList, TabPanel, TabPanels, Tabs } from "@chakra-ui/react";
 import UseLayoutEffectExampleOne from "./ExampleOne";
 
