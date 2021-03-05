@@ -8,7 +8,7 @@ import {
   NumberIncrementStepper,
   NumberDecrementStepper
 } from "@chakra-ui/react";
-import * as React from "react";
+import React from "react";
 import ColorBox from "../../components/ColorBox";
 
 function Post({ id }) {

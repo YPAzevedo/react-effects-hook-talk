@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import { Checkbox, Heading, Stack, Text } from "@chakra-ui/react";
 import Emoji from "../../components/Emoji";
 

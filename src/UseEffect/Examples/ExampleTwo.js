@@ -1,5 +1,5 @@
 import { Text, Heading } from "@chakra-ui/react";
-import * as React from "react";
+import React from "react";
 import ColorBox from "../../components/ColorBox";
 import ColorButton from "../../components/ColorButton";
 
